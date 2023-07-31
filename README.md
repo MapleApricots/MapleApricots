@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MapleApricots
 - 👀 I’m interested in drawing and painting, gymnastics, and crochet
-- 🌱 I’m currently learning to draw and paint
-- 💞️ I’m looking to collaborate on a website
+- 🌱 I’m currently learning to draw and painting
 - 📫 My username is @MapleApricots
 
 <!---
